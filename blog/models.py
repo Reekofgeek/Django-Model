@@ -10,7 +10,7 @@ class Post(models.Model):
     text = models.TextField()
     author = models.ForeignKey(
         get_user_model(),
-        on_delete=models.CASCADE,)
+        on_delete=models.CASCADE)
 
     created_date = models.DateTimeField()
     published_date = models.DateTimeField()
