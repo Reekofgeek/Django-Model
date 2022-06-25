@@ -1,5 +1,5 @@
 """
-ASGI config for I4G017616FD3 project.
+ASGI config for I4G006918VEO project.
 
 It exposes the ASGI callable as a module-level variable named ``application``.
 
