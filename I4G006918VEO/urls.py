@@ -1,4 +1,4 @@
-"""I4G017616FD3 URL Configuration
+"""I4G006918VEO URL Configuration
 
 The `urlpatterns` list routes URLs to views. For more information please see:
     https://docs.djangoproject.com/en/4.0/topics/http/urls/
